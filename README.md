@@ -1,4 +1,4 @@
-# **0- Understanding the Problem and the Data:**
+# **1- Understanding the Problem and the Data:**
   Marketing is crucial for the growth and sustainability of retail business. By understanding the customer, marketers can launch a targeted marketing campaign that is tailored for specific needs. In this project, I tried to create an ad marketing campaign by dividing the customers of a company is Seattle, U.S into at least 3 distinctive groups.
 
 The company has extensive data on their customers for the duration of 2.5 years and it has these different features:
@@ -31,3 +31,4 @@ At the end of this step, we ended up with this Dataset:
 
 ![1](https://user-images.githubusercontent.com/103439643/188916330-a59a104c-a6b8-4202-a8d6-d6a6ae44019f.PNG)
 
+# **2- Perform exploratory data analysis:**
