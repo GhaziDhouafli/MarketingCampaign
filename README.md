@@ -33,6 +33,8 @@ At the end of this step, we ended up with this Dataset:
 
 # **2- Perform exploratory data analysis:**
 
+https://public.tableau.com/app/profile/ghazi.dhoaufli/viz/AI_in_Marketing/Total_sales_Per_Country
+
 In order to solve our problem which is trying to divide the customers of the company, we first need to try and understand our data very well. For that analysing and visualizing data is a necessity. So i used Tableau to create different Dashboards that can help me figure out what we need to do later on.
 
 ![Total_sales_Per_Country](https://user-images.githubusercontent.com/103439643/188928108-3bd29ec7-1bd6-4326-9f31-308fea84fe44.png)
