@@ -56,4 +56,14 @@ Here we can tell that November has the highest sales each year, this might be a 
 
 Here I used the correlation matrix to see if there's any other information i can collect and i find out that the QTR_ID and MONTH_ID features are collerated so i can drop definetly drop the QTR_ID column.
 
+# **3- Creating the Model:**
+## **A- K-Means Clustering Algorithm:**
+K-means is an unsupervised laerning algorithm that works by grouping some data points together in an unsupervised fashion. The algorithm groups observations with similar attribute values together by measuring the Euclidian distance between points.
 
+![0_ipBIcsy9jjvqEpbK](https://user-images.githubusercontent.com/103439643/188952482-7e63e3e1-d4dc-4547-90fc-96d05e5df2ae.png)
+
+The steps of this algorithm are:
+- K-Clusters(Centers) points are created at random locations
+- Assign each data point to the nearest center
+- The center points are moved to their means of their respective clusters
+- step 2 and 3 are repeated until no observation changes.
