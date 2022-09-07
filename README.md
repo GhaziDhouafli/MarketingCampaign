@@ -32,3 +32,5 @@ At the end of this step, we ended up with this Dataset:
 ![1](https://user-images.githubusercontent.com/103439643/188916330-a59a104c-a6b8-4202-a8d6-d6a6ae44019f.PNG)
 
 # **2- Perform exploratory data analysis:**
+
+In order to solve our problem which is trying to divide the customers of the company, we first need to try and understand our data very well. For that analysing and visualizing data is a necessity. So i used Tableau to create different Dashboards that can help me figure out what we need to do later on.
