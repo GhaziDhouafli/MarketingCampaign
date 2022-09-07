@@ -87,4 +87,14 @@ After the training was done, the customers were divided into 3 seperate groups:
 - 1st Cluster: This group represents customers who buy items inhigh quantity ( around 47 on average), they usally buy items with high prices (around 99)
 - 2nd Cluster: This group represents customers who buy items  in average( around 37), and they buy high price items( around 95)
 - 3rd cluster: This group represents customers who buy items in small quantity( around 30), they tend to buy low price items(around 30)
-- 
+
+## **D- PCA:**
+
+PCA is an unsupervised machine learning algorithm, it performs dimensionality reductions while attempting at keeping the original information unchanged. It works by trying to find a new set of features called components which are composites of the uncorrelated given input features.
+
+![a26d2313464fd875dc537815b69ab64b](https://user-images.githubusercontent.com/103439643/188970154-9cf40b4a-072d-4725-9dd7-6533347ac06b.jpg)
+
+In this step, i will be suing PCA to reduce the dimension ofthe input to 3 dimensions so i can later on visualize the different clusters.
+
+![Capture](https://user-images.githubusercontent.com/103439643/188970506-4fcf7712-4e6f-4f03-a4ba-179b8b9d248b.PNG)
+
