@@ -37,4 +37,8 @@ In order to solve our problem which is trying to divide the customers of the com
 
 ![Total_sales_Per_Country](https://user-images.githubusercontent.com/103439643/188928108-3bd29ec7-1bd6-4326-9f31-308fea84fe44.png)
 
+Well here we can see that USA has the most sales among all countries, we can also see that Europe plays a huge role when it comes to sales.
+
+
+![Status](https://user-images.githubusercontent.com/103439643/188928843-b828ad7e-b491-4a66-b8d6-7e0a5fea76c1.png)
 
