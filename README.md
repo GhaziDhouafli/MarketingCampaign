@@ -42,3 +42,6 @@ Well here we can see that USA has the most sales among all countries, we can als
 
 ![Status](https://user-images.githubusercontent.com/103439643/188928843-b828ad7e-b491-4a66-b8d6-7e0a5fea76c1.png)
 
+Here we can see that our data is super unbalanced and it will have a huge impact later on that can lower the performance of our model. In this case we can't get more data and we also can't delete some rows of the data so the better option here is to drop this column.
+
+![ProductLine](https://user-images.githubusercontent.com/103439643/188929489-3780b2dd-f580-422c-8a62-71828e53b243.png)
