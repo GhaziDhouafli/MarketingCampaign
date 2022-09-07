@@ -48,5 +48,7 @@ Here we can see that our data is super unbalanced and it will have a huge impact
 
 Here we can tell that cars are the most selled products, rather than that, everything seems cool and fine when it comes to this column so no major changes needed.
 
-![DealSize](https://user-images.githubusercontent.com/103439643/188930009-978c0be7-00ad-4d59-8154-99150ec7e0eb.png)
+![Month_Sales](https://user-images.githubusercontent.com/103439643/188930206-e7ff8ffc-d1e1-4b8e-853d-3d88380a78f2.png)
+
+Here we can tell that November has the highest sales each year, this might be a huge information since campaigns can be set around this month.
 
