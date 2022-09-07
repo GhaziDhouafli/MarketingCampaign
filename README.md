@@ -52,3 +52,8 @@ Here we can tell that cars are the most selled products, rather than that, every
 
 Here we can tell that November has the highest sales each year, this might be a huge information since campaigns can be set around this month.
 
+![1](https://user-images.githubusercontent.com/103439643/188930994-18ad83ee-a7b7-442c-8dca-cf55b1c472f8.PNG)
+
+Here I used the correlation matrix to see if there's any other information i can collect and i find out that the QTR_ID and MONTH_ID features are collerated so i can drop definetly drop the QTR_ID column.
+
+
