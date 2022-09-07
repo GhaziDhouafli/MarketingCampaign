@@ -24,3 +24,6 @@ The company has extensive data on their customers for the duration of 2.5 years 
 - CONTACTFRISTNAME: Contact person's first name
 - CONTACTLASTNAME: Contact person's last name
 
+As we can see here, there's a lot of features that we can get rid of since they are not useful and they can for sure lower our model's performance. These features are:
+- ['ADDRESSLINE1','ADDRESSLINE2','POSTALCODE','CITY','TERRITORY','PHONE','STATE','CONTACTFIRSTNAME','CONTACTLASTNAME','CUSTOMERNAME','ORDERNUMBER','ORDERDATE']
+
