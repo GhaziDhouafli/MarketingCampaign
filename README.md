@@ -3,8 +3,8 @@
 
 The company has extensive data on their customers for the duration of 2.5 years and it has these different features:
 
--ORDERNUMBER: Identification of order placed
-#QUANTITYORDERED: Number of items ordered
+- ORDERNUMBER: Identification of order placed
+- QUANTITYORDERED: Number of items ordered
 
 #PRICEEACH: Price of each item
 
