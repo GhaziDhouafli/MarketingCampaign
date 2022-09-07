@@ -23,3 +23,4 @@ The company has extensive data on their customers for the duration of 2.5 years 
 - DEALSIZE: Size of the order
 - CONTACTFRISTNAME: Contact person's first name
 - CONTACTLASTNAME: Contact person's last name
+![1](https://user-images.githubusercontent.com/103439643/188910922-d51ba21b-ab89-4e75-81f8-f34f00797416.PNG)
