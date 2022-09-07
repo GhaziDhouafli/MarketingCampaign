@@ -45,3 +45,8 @@ Well here we can see that USA has the most sales among all countries, we can als
 Here we can see that our data is super unbalanced and it will have a huge impact later on that can lower the performance of our model. In this case we can't get more data and we also can't delete some rows of the data so the better option here is to drop this column.
 
 ![ProductLine](https://user-images.githubusercontent.com/103439643/188929489-3780b2dd-f580-422c-8a62-71828e53b243.png)
+
+Here we can tell that cars are the most selled products, rather than that, everything seems cool and fine when it comes to this column so no major changes needed.
+
+![DealSize](https://user-images.githubusercontent.com/103439643/188930009-978c0be7-00ad-4d59-8154-99150ec7e0eb.png)
+
