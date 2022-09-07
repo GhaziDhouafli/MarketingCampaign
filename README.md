@@ -67,3 +67,24 @@ The steps of this algorithm are:
 - Assign each data point to the nearest center
 - The center points are moved to their means of their respective clusters
 - step 2 and 3 are repeated until no observation changes.
+
+## **B- ElBow Method:**
+
+To find out the right number of clusters, I had to choose the "ElBow Method" which consists of calculating the WCSS which is the sum of squared distance between each point and the centroid in a cluster. When we plot the WCSS with the K value, the plot looks like an Elbow. As the number of clusters increases, the WCSS value will start to decrease. WCSS value is largest when K = 1.
+
+- **Results:**
+- 
+![Capture](https://user-images.githubusercontent.com/103439643/188954241-5c026770-7bb4-412b-8e26-b6df91f7cf46.PNG)
+
+This graph can't help me tell which is the number of clusters i need to choose since the "scores" is dropping in a linear way. In order to fix this problem, I used autoencoders.
+## **C- Autoencoders:**
+
+![Capture](https://user-images.githubusercontent.com/103439643/188968081-59c72d38-0a2b-4053-9ee3-5adfe757675c.PNG)
+
+Now, the WCSS is dropped faster and we can tell from  the graph that the perfect number of cluster will be 3 so everything works fine so far.
+
+After the training was done, the customers were divided into 3 seperate groups:
+- 1st Cluster: This group represents customers who buy items inhigh quantity ( around 47 on average), they usally buy items with high prices (around 99)
+- 2nd Cluster: This group represents customers who buy items  in average( around 37), and they buy high price items( around 95)
+- 3rd cluster: This group represents customers who buy items in small quantity( around 30), they tend to buy low price items(around 30)
+- 
