@@ -100,3 +100,8 @@ In this step, i will be suing PCA to reduce the dimension ofthe input to 3 dimen
 
 ![Capture](https://user-images.githubusercontent.com/103439643/188970506-4fcf7712-4e6f-4f03-a4ba-179b8b9d248b.PNG)
 
+# **4- Creating the Website:**
+In order to create the site, I used the streamlit library and based on the data that i fed to our model, i created different input_texts that needs to be filled so that i can collect the data of the customer. After that i gave it to the model to make the prediction.
+
+![Capture](https://user-images.githubusercontent.com/103439643/190517238-539c3192-ce18-4328-b040-3e19271c40fa.PNG)
+
